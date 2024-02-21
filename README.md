@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=apiasecki93)](https://git.io/streak-stats)
+
 <!--
 **apiasecki93/apiasecki93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
