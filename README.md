@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=apiasecki93)](https://git.io/streak-stats)
+![apiasecki93's Stats](https://github-readme-stats.vercel.app/api?username=apiasecki93&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![apiasecki93's Streak](https://github-readme-streak-stats.herokuapp.com/?user=apiasecki93&theme=vue-dark&hide_border=true)
+![apiasecki93's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apiasecki93&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **apiasecki93/apiasecki93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
